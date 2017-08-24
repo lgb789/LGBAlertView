@@ -1,0 +1,6 @@
+framework module LGBAlertView {
+  umbrella header "LGBAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

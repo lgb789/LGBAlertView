@@ -1,0 +1,16 @@
+PODS:
+  - LGBAlertView (0.1.0)
+
+DEPENDENCIES:
+  - LGBAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  LGBAlertView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LGBAlertView: a10a069db4b092e0ea682bd099234fe74e2941a1
+
+PODFILE CHECKSUM: 3cf7f53afc9b57aaab16085036e7f2f8f0a4a4bf
+
+COCOAPODS: 1.2.1
